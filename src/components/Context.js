@@ -9,9 +9,9 @@ export class DataProvider extends Component {
             {
                 "_id": "1",
                 "title": "Nike Shoes 01",
-                "src": "./component/img/1.jpg",
-                "description": "UI/UX designing, html css tutorials",
-                "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+                "src": '.img/1.jpg',
+                "description": "yet mae yet phr",
+                "content": "Welcome to my shop",
                 "price": 23,
                 "colors": ["red", "black", "crimson", "teal"],
                 "count": 1
@@ -19,9 +19,9 @@ export class DataProvider extends Component {
             {
                 "_id": "2",
                 "title": "Nike Shoes 02",
-                "src": "./component/img/2.jpg",
-                "description": "UI/UX designing, html css tutorials",
-                "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+                "src": ".img/2.jpg",
+                "description": "yet mae yet phr",
+                "content": "Welcome to my shop",
                 "price": 19,
                 "colors": ["red", "crimson", "teal"],
                 "count": 1
@@ -29,9 +29,9 @@ export class DataProvider extends Component {
             {
                 "_id": "3",
                 "title": "Nike Shoes 03",
-                "src": "./component/img/3.jpg",
-                "description": "UI/UX designing, html css tutorials",
-                "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+                "src": ".img/3.jpg",
+                "description": "yet mae yet phr ",
+                "content": "Welcome to my shop",
                 "price": 50,
                 "colors": ["lightblue", "white", "crimson", "teal"],
                 "count": 1
@@ -39,9 +39,9 @@ export class DataProvider extends Component {
             {
                 "_id": "4",
                 "title": "Nike Shoes 04",
-                "src": "./component/img/4.jpg",
-                "description": "UI/UX designing, html css tutorials",
-                "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+                "src": "./img/4.jpg",
+                "description": "yet mae yet phr",
+                "content": "Welcome to my shop",
                 "price": 15,
                 "colors": ["orange", "black", "crimson", "teal"],
                 "count": 1
@@ -49,9 +49,9 @@ export class DataProvider extends Component {
             {
                 "_id": "5",
                 "title": "Nike Shoes 05",
-                "src": "./component/img/5.jpg",
-                "description": "UI/UX designing, html css tutorials",
-                "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+                "src": "./img/5.jpg",
+                "description": "yet mae yet phr",
+                "content": "Welcome to my shop",
                 "price": 10,
                 "colors": ["orange", "black", "crimson", "teal"],
                 "count": 1
@@ -59,9 +59,9 @@ export class DataProvider extends Component {
             {
                 "_id": "6",
                 "title": "Nike Shoes 06",
-                "src": "./component/img/6.jpg",
-                "description": "UI/UX designing, html css tutorials",
-                "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+                "src": "./img/6.jpg",
+                "description": "yet mae yet phr",
+                "content": "Welcome to my shop",
                 "price": 17,
                 "colors": ["orange", "black", "crimson", "teal"],
                 "count": 1
